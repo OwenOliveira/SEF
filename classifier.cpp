@@ -1,0 +1,5 @@
+train()
+{
+	printf("train");
+}
+
